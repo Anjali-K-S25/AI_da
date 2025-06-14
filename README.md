@@ -2,6 +2,9 @@
 
 This AI-powered app lets users input a description of their dream and analyzes the emotional or psychological state associated with it. Built using DistilBERT and Gradio, it predicts conditions like anxiety, fear, happiness, and sadness based on dream content.
 
+Is deployed at hugging face 
+https://huggingface.co/spaces/AnjaliKS/AI_da
+
 # Features
 - Dream interpretation using NLP
 - Transformer-based classification
